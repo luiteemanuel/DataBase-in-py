@@ -41,6 +41,7 @@ Após conectado foi necessário somente inserir os dados no Banco.
 
 ## API Buscar Dados do Campeonato Brasleiro. 
 
+o codigo está no Arquivo "api_request.ipynb"
 Foi Usada a Biblioteca [Requests](https://pypi.org/project/requests/) para Consumir a [API](https://rapidapi.com/theoddsapi/api/live-sports-odds/)
 Após consumir a mesma peguei o Retorno que foi em Json e Setei em um DataFrame usando o [Pandas](https://pandas.pydata.org/). 
 
