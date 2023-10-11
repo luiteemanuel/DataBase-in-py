@@ -39,6 +39,17 @@ Feito isso SO foi a inserção dos dados Usando a Biblioteca [Psycopg2](https://
 Após conectado foi necessário somente inserir os dados no Banco. 
 ![image](https://github.com/luiteemanuel/DataBase-in-py/assets/60760100/516e8b42-0fc8-4cae-a52f-08b854ee22c6)
 
+## algumas consultas em SQL
+a) Quanto de rake foi gerado por cada Geração* de jogadores?
+![questao01](https://github.com/luiteemanuel/DataBase-in-py/assets/60760100/c09f25ff-8e2a-40ef-b876-72edf227f5fb)
+
+b) Qual foi o rake gerado por mês?
+![image](https://github.com/luiteemanuel/DataBase-in-py/assets/60760100/86be49fa-e29c-4a2c-8d65-859e61df58fa)
+
+c) Qual sexo tem uma maior proporção de ganhadores**?
+![image](https://github.com/luiteemanuel/DataBase-in-py/assets/60760100/83045090-6fe5-4859-8dca-7bc8f9edd7a9)
+
+
 ## API Buscar Dados do Campeonato Brasleiro. 
 
 o codigo está no Arquivo "api_request.ipynb"
@@ -62,4 +73,7 @@ Essa etapa sempre e a mais complexa devido que nao e facil trabalhar com dados c
 
 Apos isso foi so necssario inserir os dados no Banco de dados! 
 o processo foi o mesmo que fiz anteriormente. 
+
+
+
 ## FIM! 
